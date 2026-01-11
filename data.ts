@@ -32,7 +32,7 @@ export const TRIALS: TrialConfig[] = [
     reminder: "可洗果蔬，橙子味，不伤手。",
     products: [
       { id: 'd3_0', name: '强力洗洁精 A', price: 12.0, rating: 4.2, imageUrl: 'https://images.unsplash.com/photo-1563453392212-326f5e854473?w=200', summary: '去油王。', attributes: [{ label: '功能', value: '仅洗餐具' }, { label: '香味', value: '橙子味' }, { label: '配方', value: '中性不伤手' }] },
-      { id: 'd3_1', name: '强力洗洁精 B', price: 18.0, rating: 4.4, imageUrl: 'https://images.unsplash.com/photo-1563453392212-326f5e854473?w=200', summary: '柠檬清香。', attributes: [{ label: '功能', value: '仅洗餐具' }, { label: '香味', value: '橙子味' }, { label: '配方', value: '普通' }] },
+      { id: 'd3_1', name: '强力洗洁精 B', price: 18.0, rating: 4.4, imageUrl: 'https://images.unsplash.com/photo-1563453392212-326f5e854473?w=200', summary: '橙子清香。', attributes: [{ label: '功能', value: '仅洗餐具' }, { label: '香味', value: '橙子味' }, { label: '配方', value: '普通' }] },
       { id: 'd3_2', name: '强力洗洁精 C', price: 22.0, rating: 4.5, imageUrl: 'https://images.unsplash.com/photo-1563453392212-326f5e854473?w=200', summary: '高端有机。', attributes: [{ label: '功能', value: '果蔬可用' }, { label: '香味', value: '无香' }, { label: '配方', value: '中性不伤手' }] },
       { id: 'd3_3', name: '强力洗洁精 D', price: 15.9, rating: 4.6, imageUrl: 'https://images.unsplash.com/photo-1563453392212-326f5e854473?w=200', summary: '快速去油，易冲洗。', attributes: [{ label: '功能', value: '果蔬可用' }, { label: '香味', value: '橙子味' }, { label: '配方', value: '中性不伤手' }] }
     ]
